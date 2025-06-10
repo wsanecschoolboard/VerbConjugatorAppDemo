@@ -1,0 +1,721 @@
+subject_base,subject,sperson,subject_translation,tense_translation,tense_base,tense,object,operson,object_translation,object_base,verb_translation,verb_type,control,verb,verb_base,person,text,text_breakdown,text_label
+-ES,3pltran,3,they,future,SE¸,fut,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES SE¸,SEJN__ES SE¸,verb_objectverb_subject
+-ES,3pltran,3,they,future,SE¸,fut,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES SE¸,QENN__ES SE¸,verb_objectverb_subject
+-ES,3pltran,3,they,future,SE¸,fut,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES SE¸,ȻENÁṈN__ES SE¸,verb_objectverb_subject
+-ES,3pltran,3,they,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES SE¸,SEJN__ES SE¸,verb_objectverb_subject
+-ES,3pltran,3,they,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES SE¸,QENN__ES SE¸,verb_objectverb_subject
+-ES,3pltran,3,they,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES SE¸,ȻENÁṈN__ES SE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES SE¸,SEJN__ES SE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES SE¸,QENN__ES SE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES SE¸,ȻENÁṈN__ES SE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES SE¸,SEJN__ES SE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES SE¸,QENN__ES SE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES SE¸,ȻENÁṈN__ES SE¸,verb_objectverb_subject
+-ES,3pltran,3,they,future,SE¸,fut,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES SE¸,W̱EĆET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES SE¸,ŚÁMET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENETES SE¸,QENET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES SE¸,ȽIȾET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQETES SE¸,KIQET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES SE¸,ȻENÁṈET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES SE¸,W̱EĆET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES SE¸,ŚÁMET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENETES SE¸,QENET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES SE¸,ȽIȾET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQETES SE¸,KIQET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES SE¸,ȻENÁṈET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES SE¸,W̱EĆET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES SE¸,ŚÁMET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENETES SE¸,QENET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES SE¸,ȽIȾET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQETES SE¸,KIQET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES SE¸,ȻENÁṈET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES SE¸,W̱EĆET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES SE¸,ŚÁMET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENETES SE¸,QENET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES SE¸,ȽIȾET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQETES SE¸,KIQET_ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES SE¸,ȻENÁṈET_ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ES SE¸,W̱EĆET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ES SE¸,ŚÁMET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ES SE¸,QENET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ES SE¸,ȽIȾET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ES SE¸,KIQET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ES SE¸,ȻENÁṈET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESES SE¸,W̱EĆE_SES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESES SE¸,ŚÁME_SES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENESES SE¸,QENE_SES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESES SE¸,ȽIȾE_SES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQESES SE¸,KIQE_SES _SE¸,verb_object_tense
+-ES,3pltran,3,they,future,SE¸,fut,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESES SE¸,ȻENÁṈE_SES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ES SE¸,W̱EĆET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ES SE¸,ŚÁMET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ES SE¸,QENET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ES SE¸,ȽIȾET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ES SE¸,KIQET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ES SE¸,ȻENÁṈET_OL¸W̱ES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESES SE¸,W̱EĆE_SES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESES SE¸,ŚÁME_SES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENESES SE¸,QENE_SES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESES SE¸,ȽIȾE_SES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQESES SE¸,KIQE_SES _SE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,future,SE¸,fut,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESES SE¸,ȻENÁṈE_SES _SE¸,verb_object_tense
+-,3plint,3,they,future,SE¸,fut,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SE¸,YÁ¸__ _SE¸,verb_object_subject_tense
+-,3plint,3,they,future,SE¸,fut,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SE¸,ITET__ _SE¸,verb_object_subject_tense
+-,3plint,3,they,future,SE¸,fut,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SE¸,EMET__ _SE¸,verb_object_subject_tense
+-,3plint,3,they,future,SE¸,fut,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SE¸,ȻONEṈET__ _SE¸,verb_object_subject_tense
+-,3plint,3,they,future,SE¸,fut,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SE¸,ĆȺ__ _SE¸,verb_object_subject_tense
+-,3plint,3,they,future,SE¸,fut,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SE¸,ĆÁNEL__ _SE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,future,SE¸,fut,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SE¸,YÁ¸__ _SE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,future,SE¸,fut,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SE¸,ITET__ _SE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,future,SE¸,fut,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SE¸,EMET__ _SE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,future,SE¸,fut,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SE¸,ȻONEṈET__ _SE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,future,SE¸,fut,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SE¸,ĆȺ__ _SE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,future,SE¸,fut,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SE¸,ĆÁNEL__ _SE¸,verb_object_subject_tense
+-ES,3pltran,3,they,past,LE¸,past,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES LE¸,SEJN__ES LE¸,verb_objectverb_subject
+-ES,3pltran,3,they,past,LE¸,past,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES LE¸,QENN__ES LE¸,verb_objectverb_subject
+-ES,3pltran,3,they,past,LE¸,past,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES LE¸,ȻENÁṈN__ES LE¸,verb_objectverb_subject
+-ES,3pltran,3,they,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES LE¸,SEJN__ES LE¸,verb_objectverb_subject
+-ES,3pltran,3,they,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES LE¸,QENN__ES LE¸,verb_objectverb_subject
+-ES,3pltran,3,they,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES LE¸,ȻENÁṈN__ES LE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES LE¸,SEJN__ES LE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES LE¸,QENN__ES LE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES LE¸,ȻENÁṈN__ES LE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES LE¸,SEJN__ES LE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES LE¸,QENN__ES LE¸,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES LE¸,ȻENÁṈN__ES LE¸,verb_objectverb_subject
+-ES,3pltran,3,they,past,LE¸,past,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES LE¸,W̱EĆET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES LE¸,ŚÁMET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENETES LE¸,QENET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES LE¸,ȽIȾET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQETES LE¸,KIQET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES LE¸,ȻENÁṈET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES LE¸,W̱EĆET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES LE¸,ŚÁMET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENETES LE¸,QENET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES LE¸,ȽIȾET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQETES LE¸,KIQET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES LE¸,ȻENÁṈET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES LE¸,W̱EĆET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES LE¸,ŚÁMET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENETES LE¸,QENET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES LE¸,ȽIȾET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQETES LE¸,KIQET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES LE¸,ȻENÁṈET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES LE¸,W̱EĆET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES LE¸,ŚÁMET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENETES LE¸,QENET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES LE¸,ȽIȾET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQETES LE¸,KIQET_ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES LE¸,ȻENÁṈET_ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ES LE¸,W̱EĆET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ES LE¸,ŚÁMET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ES LE¸,QENET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ES LE¸,ȽIȾET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ES LE¸,KIQET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ES LE¸,ȻENÁṈET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESES LE¸,W̱EĆE_SES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESES LE¸,ŚÁME_SES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENESES LE¸,QENE_SES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESES LE¸,ȽIȾE_SES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQESES LE¸,KIQE_SES _LE¸,verb_object_tense
+-ES,3pltran,3,they,past,LE¸,past,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESES LE¸,ȻENÁṈE_SES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ES LE¸,W̱EĆET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ES LE¸,ŚÁMET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ES LE¸,QENET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ES LE¸,ȽIȾET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ES LE¸,KIQET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ES LE¸,ȻENÁṈET_OL¸W̱ES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESES LE¸,W̱EĆE_SES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESES LE¸,ŚÁME_SES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENESES LE¸,QENE_SES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESES LE¸,ȽIȾE_SES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQESES LE¸,KIQE_SES _LE¸,verb_object_tense
+-ES,3sgtran,3,s/he/it,past,LE¸,past,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESES LE¸,ȻENÁṈE_SES _LE¸,verb_object_tense
+-,3plint,3,they,past,LE¸,past,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ LE¸,YÁ¸__ _LE¸,verb_object_subject_tense
+-,3plint,3,they,past,LE¸,past,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET LE¸,ITET__ _LE¸,verb_object_subject_tense
+-,3plint,3,they,past,LE¸,past,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET LE¸,EMET__ _LE¸,verb_object_subject_tense
+-,3plint,3,they,past,LE¸,past,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET LE¸,ȻONEṈET__ _LE¸,verb_object_subject_tense
+-,3plint,3,they,past,LE¸,past,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ LE¸,ĆȺ__ _LE¸,verb_object_subject_tense
+-,3plint,3,they,past,LE¸,past,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL LE¸,ĆÁNEL__ _LE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,past,LE¸,past,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ LE¸,YÁ¸__ _LE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,past,LE¸,past,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET LE¸,ITET__ _LE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,past,LE¸,past,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET LE¸,EMET__ _LE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,past,LE¸,past,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET LE¸,ȻONEṈET__ _LE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,past,LE¸,past,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ LE¸,ĆȺ__ _LE¸,verb_object_subject_tense
+-,3sgint,3,s/he/it,past,LE¸,past,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL LE¸,ĆÁNEL__ _LE¸,verb_object_subject_tense
+-ES,3pltran,3,they,present,-,prs,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES ,SEJN__ES ,verb_objectverb_subject
+-ES,3pltran,3,they,present,-,prs,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES ,QENN__ES ,verb_objectverb_subject
+-ES,3pltran,3,they,present,-,prs,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES ,ȻENÁṈN__ES ,verb_objectverb_subject
+-ES,3pltran,3,they,present,-,prs,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES ,SEJN__ES ,verb_objectverb_subject
+-ES,3pltran,3,they,present,-,prs,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES ,QENN__ES ,verb_objectverb_subject
+-ES,3pltran,3,they,present,-,prs,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES ,ȻENÁṈN__ES ,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,present,-,prs,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES ,SEJN__ES ,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,present,-,prs,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES ,QENN__ES ,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,present,-,prs,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES ,ȻENÁṈN__ES ,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,present,-,prs,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNES ,SEJN__ES ,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,present,-,prs,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNES ,QENN__ES ,verb_objectverb_subject
+-ES,3sgtran,3,s/he/it,present,-,prs,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNES ,ȻENÁṈN__ES ,verb_objectverb_subject
+-ES,3pltran,3,they,present,-,prs,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES ,W̱EĆET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES ,ŚÁMET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENETES ,QENET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES ,ȽIȾET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQETES ,KIQET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES ,ȻENÁṈET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES ,W̱EĆET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES ,ŚÁMET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENETES ,QENET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES ,ȽIȾET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQETES ,KIQET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES ,ȻENÁṈET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES ,W̱EĆET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES ,ŚÁMET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENETES ,QENET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES ,ȽIȾET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQETES ,KIQET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES ,ȻENÁṈET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETES ,W̱EĆET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETES ,ŚÁMET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENETES ,QENET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETES ,ȽIȾET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQETES ,KIQET_ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETES ,ȻENÁṈET_ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ES ,W̱EĆET_OL¸W̱ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ES ,ŚÁMET_OL¸W̱ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ES ,QENET_OL¸W̱ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ES ,ȽIȾET_OL¸W̱ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ES ,KIQET_OL¸W̱ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ES ,ȻENÁṈET_OL¸W̱ES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESES ,W̱EĆE_SES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESES ,ŚÁME_SES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENESES ,QENE_SES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESES ,ȽIȾE_SES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQESES ,KIQE_SES _,verb_object_tense
+-ES,3pltran,3,they,present,-,prs,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESES ,ȻENÁṈE_SES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ES ,W̱EĆET_OL¸W̱ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ES ,ŚÁMET_OL¸W̱ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ES ,QENET_OL¸W̱ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ES ,ȽIȾET_OL¸W̱ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ES ,KIQET_OL¸W̱ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ES ,ȻENÁṈET_OL¸W̱ES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESES ,W̱EĆE_SES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESES ,ŚÁME_SES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENESES ,QENE_SES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESES ,ȽIȾE_SES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQESES ,KIQE_SES _,verb_object_tense
+-ES,3sgtran,3,s/he/it,present,-,prs,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESES ,ȻENÁṈE_SES _,verb_object_tense
+-,3plint,3,they,present,-,prs,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ ,YÁ¸__ _,verb_object_subject_tense
+-,3plint,3,they,present,-,prs,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET ,ITET__ _,verb_object_subject_tense
+-,3plint,3,they,present,-,prs,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET ,EMET__ _,verb_object_subject_tense
+-,3plint,3,they,present,-,prs,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET ,ȻONEṈET__ _,verb_object_subject_tense
+-,3plint,3,they,present,-,prs,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ ,ĆȺ__ _,verb_object_subject_tense
+-,3plint,3,they,present,-,prs,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL ,ĆÁNEL__ _,verb_object_subject_tense
+-,3sgint,3,s/he/it,present,-,prs,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ ,YÁ¸__ _,verb_object_subject_tense
+-,3sgint,3,s/he/it,present,-,prs,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET ,ITET__ _,verb_object_subject_tense
+-,3sgint,3,s/he/it,present,-,prs,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET ,EMET__ _,verb_object_subject_tense
+-,3sgint,3,s/he/it,present,-,prs,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET ,ȻONEṈET__ _,verb_object_subject_tense
+-,3sgint,3,s/he/it,present,-,prs,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ ,ĆȺ__ _,verb_object_subject_tense
+-,3sgint,3,s/he/it,present,-,prs,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL ,ĆÁNEL__ _,verb_object_subject_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ SW̱ HÁLE,SEJNOW̱__LE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ SW̱ HÁLE,QENNEW̱__LE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ SW̱ HÁLE,ȻENÁṈNEW̱__LE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ SW̱ HÁLE,SEJNOW̱__LE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ SW̱ HÁLE,QENNEW̱__LE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ SW̱ HÁLE,ȻENÁṈNEW̱__LE¸ SW̱ HÁLE,verb_object_tense
+SW̱,2sgtran,2,You,past,LE¸,past,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ SW̱,SEJNOW̱__LE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,past,LE¸,past,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ SW̱,QENNEW̱__LE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,past,LE¸,past,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ SW̱,ȻENÁṈNEW̱__LE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ SW̱,SEJNOW̱__LE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ SW̱,QENNEW̱__LE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ SW̱,ȻENÁṈNEW̱__LE¸ SW̱,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ SW̱ HÁLE,W̱EĆET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ SW̱ HÁLE,ŚÁMET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ SW̱ HÁLE,QENET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ SW̱ HÁLE,ȽIȾET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ SW̱ HÁLE,KIQET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ SW̱ HÁLE,ȻENÁṈET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ SW̱ HÁLE,W̱EĆET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ SW̱ HÁLE,ŚÁMET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ SW̱ HÁLE,QENET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ SW̱ HÁLE,ȽIȾET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ SW̱ HÁLE,KIQET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ SW̱ HÁLE,ȻENÁṈET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ SW̱,W̱EĆET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ SW̱,ŚÁMET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ SW̱,QENET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ SW̱,ȽIȾET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ SW̱,KIQET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ SW̱,ȻENÁṈET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ SW̱,W̱EĆET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ SW̱,ŚÁMET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ SW̱,QENET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ SW̱,ȽIȾET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ SW̱,KIQET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ SW̱,ȻENÁṈET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1plNC,1,Us,OL¸W̱,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOL¸W̱ LE¸ SW̱ HÁLE,SEJN_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1plNC,1,Us,OL¸W̱,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOL¸W̱ LE¸ SW̱ HÁLE,QENN_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1plNC,1,Us,OL¸W̱,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOL¸W̱ LE¸ SW̱ HÁLE,ȻENÁṈN_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sgNC,1,Me,OṈES,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈES LE¸ SW̱ HÁLE,SEJN_OṈES _LE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sgNC,1,Me,OṈES,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈES LE¸ SW̱ HÁLE,QENN_OṈES _LE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sgNC,1,Me,OṈES,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈES LE¸ SW̱ HÁLE,ȻENÁṈN_OṈES _LE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1plNC,1,Us,OL¸W̱,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOL¸W̱ LE¸ SW̱,SEJN_OL¸W̱ _LE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1plNC,1,Us,OL¸W̱,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOL¸W̱ LE¸ SW̱,QENN_OL¸W̱ _LE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1plNC,1,Us,OL¸W̱,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOL¸W̱ LE¸ SW̱,ȻENÁṈN_OL¸W̱ _LE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sgNC,1,Me,OṈES,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈES LE¸ SW̱,SEJN_OṈES _LE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sgNC,1,Me,OṈES,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈES LE¸ SW̱,QENN_OṈES _LE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sgNC,1,Me,OṈES,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈES LE¸ SW̱,ȻENÁṈN_OṈES _LE¸ _SW̱,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ LE¸ SW̱ HÁLE,W̱EĆET_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ LE¸ SW̱ HÁLE,ŚÁMET_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ LE¸ SW̱ HÁLE,QENET_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ LE¸ SW̱ HÁLE,ȽIȾET_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ LE¸ SW̱ HÁLE,KIQET_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ LE¸ SW̱ HÁLE,ȻENÁṈET_OL¸W̱ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆES LE¸ SW̱ HÁLE,W̱EĆE_S _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMES LE¸ SW̱ HÁLE,ŚÁME_S _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENES LE¸ SW̱ HÁLE,QENE_S _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾES LE¸ SW̱ HÁLE,ȽIȾE_S _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQES LE¸ SW̱ HÁLE,KIQE_S _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,past,LE¸,past,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈES LE¸ SW̱ HÁLE,ȻENÁṈE_S _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ LE¸ SW̱,W̱EĆET_OL¸W̱ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ LE¸ SW̱,ŚÁMET_OL¸W̱ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ LE¸ SW̱,QENET_OL¸W̱ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ LE¸ SW̱,ȽIȾET_OL¸W̱ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ LE¸ SW̱,KIQET_OL¸W̱ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ LE¸ SW̱,ȻENÁṈET_OL¸W̱ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆES LE¸ SW̱,W̱EĆE_S _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMES LE¸ SW̱,ŚÁME_S _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENES LE¸ SW̱,QENE_S _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾES LE¸ SW̱,ȽIȾE_S _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQES LE¸ SW̱,KIQE_S _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,past,LE¸,past,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈES LE¸ SW̱,ȻENÁṈE_S _LE¸ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,past,LE¸,past,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ LE¸ SW̱ HÁLE,YÁ¸_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,past,LE¸,past,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET LE¸ SW̱ HÁLE,ITET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,past,LE¸,past,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET LE¸ SW̱ HÁLE,EMET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,past,LE¸,past,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET LE¸ SW̱ HÁLE,ȻONEṈET_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,past,LE¸,past,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ LE¸ SW̱ HÁLE,ĆȺ_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,past,LE¸,past,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL LE¸ SW̱ HÁLE,ĆÁNEL_ _LE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgint,2,you,past,LE¸,past,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ LE¸ SW̱,YÁ¸_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,past,LE¸,past,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET LE¸ SW̱,ITET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,past,LE¸,past,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET LE¸ SW̱,EMET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,past,LE¸,past,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET LE¸ SW̱,ȻONEṈET_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,past,LE¸,past,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ LE¸ SW̱,ĆȺ_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,past,LE¸,past,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL LE¸ SW̱,ĆÁNEL_ _LE¸ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ SW̱ HÁLE,SEJNOW̱__ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ SW̱ HÁLE,QENNEW̱__ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ SW̱ HÁLE,ȻENÁṈNEW̱__ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ SW̱ HÁLE,SEJNOW̱__ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ SW̱ HÁLE,QENNEW̱__ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ SW̱ HÁLE,ȻENÁṈNEW̱__ SW̱ HÁLE,verb_object_tense
+SW̱,2sgtran,2,You,present,-,prs,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ SW̱,SEJNOW̱__ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,present,-,prs,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ SW̱,QENNEW̱__ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,present,-,prs,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ SW̱,ȻENÁṈNEW̱__ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,present,-,prs,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ SW̱,SEJNOW̱__ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,present,-,prs,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ SW̱,QENNEW̱__ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,present,-,prs,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ SW̱,ȻENÁṈNEW̱__ SW̱,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SW̱ HÁLE,W̱EĆET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SW̱ HÁLE,ŚÁMET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET SW̱ HÁLE,QENET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SW̱ HÁLE,ȽIȾET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET SW̱ HÁLE,KIQET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SW̱ HÁLE,ȻENÁṈET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SW̱ HÁLE,W̱EĆET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SW̱ HÁLE,ŚÁMET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET SW̱ HÁLE,QENET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SW̱ HÁLE,ȽIȾET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET SW̱ HÁLE,KIQET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SW̱ HÁLE,ȻENÁṈET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SW̱,W̱EĆET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SW̱,ŚÁMET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET SW̱,QENET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SW̱,ȽIȾET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET SW̱,KIQET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SW̱,ȻENÁṈET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SW̱,W̱EĆET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SW̱,ŚÁMET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET SW̱,QENET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SW̱,ȽIȾET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET SW̱,KIQET__ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SW̱,ȻENÁṈET__ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1plNC,1,Us,OL¸W̱,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOL¸W̱ SW̱ HÁLE,SEJN_OL¸W̱_ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1plNC,1,Us,OL¸W̱,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOL¸W̱ SW̱ HÁLE,QENN_OL¸W̱_ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1plNC,1,Us,OL¸W̱,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOL¸W̱ SW̱ HÁLE,ȻENÁṈN_OL¸W̱_ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sgNC,1,Me,OṈES,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈES SW̱ HÁLE,SEJN_OṈES_ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sgNC,1,Me,OṈES,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈES SW̱ HÁLE,QENN_OṈES_ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sgNC,1,Me,OṈES,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈES SW̱ HÁLE,ȻENÁṈN_OṈES_ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1plNC,1,Us,OL¸W̱,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOL¸W̱ SW̱,SEJN_OL¸W̱_ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1plNC,1,Us,OL¸W̱,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOL¸W̱ SW̱,QENN_OL¸W̱_ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1plNC,1,Us,OL¸W̱,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOL¸W̱ SW̱,ȻENÁṈN_OL¸W̱_ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sgNC,1,Me,OṈES,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈES SW̱,SEJN_OṈES_ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sgNC,1,Me,OṈES,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈES SW̱,QENN_OṈES_ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sgNC,1,Me,OṈES,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈES SW̱,ȻENÁṈN_OṈES_ _SW̱,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ SW̱ HÁLE,W̱EĆET_OL¸W̱_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ SW̱ HÁLE,ŚÁMET_OL¸W̱_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ SW̱ HÁLE,QENET_OL¸W̱_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ SW̱ HÁLE,ȽIȾET_OL¸W̱_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ SW̱ HÁLE,KIQET_OL¸W̱_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ SW̱ HÁLE,ȻENÁṈET_OL¸W̱_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆES SW̱ HÁLE,W̱EĆE_S_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMES SW̱ HÁLE,ŚÁME_S_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENES SW̱ HÁLE,QENE_S_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾES SW̱ HÁLE,ȽIȾE_S_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQES SW̱ HÁLE,KIQE_S_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,present,-,prs,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈES SW̱ HÁLE,ȻENÁṈE_S_ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ SW̱,W̱EĆET_OL¸W̱_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ SW̱,ŚÁMET_OL¸W̱_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ SW̱,QENET_OL¸W̱_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ SW̱,ȽIȾET_OL¸W̱_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ SW̱,KIQET_OL¸W̱_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ SW̱,ȻENÁṈET_OL¸W̱_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆES SW̱,W̱EĆE_S_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMES SW̱,ŚÁME_S_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENES SW̱,QENE_S_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾES SW̱,ȽIȾE_S_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQES SW̱,KIQE_S_ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,present,-,prs,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈES SW̱,ȻENÁṈE_S_ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,present,-,prs,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SW̱ HÁLE,YÁ¸__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,present,-,prs,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SW̱ HÁLE,ITET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,present,-,prs,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SW̱ HÁLE,EMET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,present,-,prs,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SW̱ HÁLE,ȻONEṈET__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,present,-,prs,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SW̱ HÁLE,ĆȺ__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,present,-,prs,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SW̱ HÁLE,ĆÁNEL__ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgint,2,you,present,-,prs,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SW̱,YÁ¸__ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,present,-,prs,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SW̱,ITET__ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,present,-,prs,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SW̱,EMET__ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,present,-,prs,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SW̱,ȻONEṈET__ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,present,-,prs,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SW̱,ĆȺ__ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,present,-,prs,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SW̱,ĆÁNEL__ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ SW̱ HÁLE,SEJNOW̱__SE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ SW̱ HÁLE,QENNEW̱__SE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ SW̱ HÁLE,ȻENÁṈNEW̱__SE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ SW̱ HÁLE,SEJNOW̱__SE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ SW̱ HÁLE,QENNEW̱__SE¸ SW̱ HÁLE,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ SW̱ HÁLE,ȻENÁṈNEW̱__SE¸ SW̱ HÁLE,verb_object_tense
+SW̱,2sgtran,2,You,future,SE¸,fut,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ SW̱,SEJNOW̱__SE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,future,SE¸,fut,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ SW̱,QENNEW̱__SE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,future,SE¸,fut,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ SW̱,ȻENÁṈNEW̱__SE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ SW̱,SEJNOW̱__SE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ SW̱,QENNEW̱__SE¸ SW̱,verb_object_tense
+SW̱,2sgtran,2,You,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ SW̱,ȻENÁṈNEW̱__SE¸ SW̱,verb_object_tense
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SE¸ SW̱ HÁLE,W̱EĆET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SE¸ SW̱ HÁLE,ŚÁMET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET SE¸ SW̱ HÁLE,QENET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SE¸ SW̱ HÁLE,ȽIȾET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET SE¸ SW̱ HÁLE,KIQET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SE¸ SW̱ HÁLE,ȻENÁṈET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SE¸ SW̱ HÁLE,W̱EĆET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SE¸ SW̱ HÁLE,ŚÁMET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET SE¸ SW̱ HÁLE,QENET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SE¸ SW̱ HÁLE,ȽIȾET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET SE¸ SW̱ HÁLE,KIQET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SE¸ SW̱ HÁLE,ȻENÁṈET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SE¸ SW̱,W̱EĆET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SE¸ SW̱,ŚÁMET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET SE¸ SW̱,QENET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SE¸ SW̱,ȽIȾET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET SE¸ SW̱,KIQET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SE¸ SW̱,ȻENÁṈET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SE¸ SW̱,W̱EĆET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SE¸ SW̱,ŚÁMET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET SE¸ SW̱,QENET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SE¸ SW̱,ȽIȾET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET SE¸ SW̱,KIQET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SE¸ SW̱,ȻENÁṈET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1plNC,1,Us,OL¸W̱,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOL¸W̱ SE¸ SW̱ HÁLE,SEJN_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1plNC,1,Us,OL¸W̱,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOL¸W̱ SE¸ SW̱ HÁLE,QENN_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1plNC,1,Us,OL¸W̱,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOL¸W̱ SE¸ SW̱ HÁLE,ȻENÁṈN_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sgNC,1,Me,OṈES,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈES SE¸ SW̱ HÁLE,SEJN_OṈES _SE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sgNC,1,Me,OṈES,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈES SE¸ SW̱ HÁLE,QENN_OṈES _SE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sgNC,1,Me,OṈES,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈES SE¸ SW̱ HÁLE,ȻENÁṈN_OṈES _SE¸ _SW̱ HÁLE,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1plNC,1,Us,OL¸W̱,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOL¸W̱ SE¸ SW̱,SEJN_OL¸W̱ _SE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1plNC,1,Us,OL¸W̱,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOL¸W̱ SE¸ SW̱,QENN_OL¸W̱ _SE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1plNC,1,Us,OL¸W̱,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOL¸W̱ SE¸ SW̱,ȻENÁṈN_OL¸W̱ _SE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sgNC,1,Me,OṈES,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈES SE¸ SW̱,SEJN_OṈES _SE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sgNC,1,Me,OṈES,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈES SE¸ SW̱,QENN_OṈES _SE¸ _SW̱,verb_objectverb_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sgNC,1,Me,OṈES,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈES SE¸ SW̱,ȻENÁṈN_OṈES _SE¸ _SW̱,verb_objectverb_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ SE¸ SW̱ HÁLE,W̱EĆET_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ SE¸ SW̱ HÁLE,ŚÁMET_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ SE¸ SW̱ HÁLE,QENET_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ SE¸ SW̱ HÁLE,ȽIȾET_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ SE¸ SW̱ HÁLE,KIQET_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ SE¸ SW̱ HÁLE,ȻENÁṈET_OL¸W̱ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆES SE¸ SW̱ HÁLE,W̱EĆE_S _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMES SE¸ SW̱ HÁLE,ŚÁME_S _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENES SE¸ SW̱ HÁLE,QENE_S _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾES SE¸ SW̱ HÁLE,ȽIȾE_S _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQES SE¸ SW̱ HÁLE,KIQE_S _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2pltran,2,you folks,future,SE¸,fut,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈES SE¸ SW̱ HÁLE,ȻENÁṈE_S _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1pl,1,us,OL¸W̱,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆETOL¸W̱ SE¸ SW̱,W̱EĆET_OL¸W̱ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1pl,1,us,OL¸W̱,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMETOL¸W̱ SE¸ SW̱,ŚÁMET_OL¸W̱ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1pl,1,us,OL¸W̱,look at it,transitive,contr,QENET,QENET,,QENETOL¸W̱ SE¸ SW̱,QENET_OL¸W̱ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1pl,1,us,OL¸W̱,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾETOL¸W̱ SE¸ SW̱,ȽIȾET_OL¸W̱ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1pl,1,us,OL¸W̱,bite it,transitive,contr,KIQET,KIQET,,KIQETOL¸W̱ SE¸ SW̱,KIQET_OL¸W̱ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1pl,1,us,OL¸W̱,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈETOL¸W̱ SE¸ SW̱,ȻENÁṈET_OL¸W̱ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sg,1,Me,S,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆES SE¸ SW̱,W̱EĆE_S _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sg,1,Me,S,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMES SE¸ SW̱,ŚÁME_S _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sg,1,Me,S,look at it,transitive,contr,QENET,QENET,,QENES SE¸ SW̱,QENE_S _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sg,1,Me,S,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾES SE¸ SW̱,ȽIȾE_S _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sg,1,Me,S,bite it,transitive,contr,KIQET,KIQET,,KIQES SE¸ SW̱,KIQE_S _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgtran,2,You,future,SE¸,fut,1sg,1,Me,S,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈES SE¸ SW̱,ȻENÁṈE_S _SE¸ _SW̱,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,future,SE¸,fut,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SE¸ SW̱ HÁLE,YÁ¸_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,future,SE¸,fut,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SE¸ SW̱ HÁLE,ITET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,future,SE¸,fut,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SE¸ SW̱ HÁLE,EMET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,future,SE¸,fut,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SE¸ SW̱ HÁLE,ȻONEṈET_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,future,SE¸,fut,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SE¸ SW̱ HÁLE,ĆȺ_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱ HÁLE,2plint,2,you folks,future,SE¸,fut,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SE¸ SW̱ HÁLE,ĆÁNEL_ _SE¸ _SW̱ HÁLE,verb_object_tense_subject
+SW̱,2sgint,2,you,future,SE¸,fut,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SE¸ SW̱,YÁ¸_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,future,SE¸,fut,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SE¸ SW̱,ITET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,future,SE¸,fut,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SE¸ SW̱,EMET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,future,SE¸,fut,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SE¸ SW̱,ȻONEṈET_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,future,SE¸,fut,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SE¸ SW̱,ĆȺ_ _SE¸ _SW̱,verb_object_tense_subject
+SW̱,2sgint,2,you,future,SE¸,fut,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SE¸ SW̱,ĆÁNEL_ _SE¸ _SW̱,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ ȽTE,SEJNOW̱__LE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,past,LE¸,past,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ ȽTE,QENNEW̱__LE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,past,LE¸,past,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ ȽTE,ȻENÁṈNEW̱__LE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ ȽTE,SEJNOW̱__LE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ ȽTE,QENNEW̱__LE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ ȽTE,ȻENÁṈNEW̱__LE¸ ȽTE,verb_object_tense
+SEN,1sgtran,1,I,past,LE¸,past,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ SEN,SEJNOW̱__LE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,past,LE¸,past,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ SEN,QENNEW̱__LE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,past,LE¸,past,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ SEN,ȻENÁṈNEW̱__LE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱LE¸ SEN,SEJNOW̱__LE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱LE¸ SEN,QENNEW̱__LE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,past,LE¸,past,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱LE¸ SEN,ȻENÁṈNEW̱__LE¸ SEN,verb_object_tense
+ȽTE,1pltran,1,we,past,LE¸,past,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ ȽTE,W̱EĆET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ ȽTE,ŚÁMET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ ȽTE,QENET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ ȽTE,ȽIȾET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ ȽTE,KIQET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ ȽTE,ȻENÁṈET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ ȽTE,W̱EĆET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ ȽTE,ŚÁMET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ ȽTE,QENET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ ȽTE,ȽIȾET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ ȽTE,KIQET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ ȽTE,ȻENÁṈET_ _LE¸ _ȽTE,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ SEN,W̱EĆET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ SEN,ŚÁMET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ SEN,QENET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ SEN,ȽIȾET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ SEN,KIQET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ SEN,ȻENÁṈET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET LE¸ SEN,W̱EĆET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET LE¸ SEN,ŚÁMET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET LE¸ SEN,QENET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET LE¸ SEN,ȽIȾET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET LE¸ SEN,KIQET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,past,LE¸,past,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET LE¸ SEN,ȻENÁṈET_ _LE¸ _SEN,verb_object_tense_subject
+ȽTE,1pltran,1,we,past,LE¸,past,2NCsg,2,You,OṈE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE LE¸ ȽTE,SEJN_OṈE LE¸ ȽTE,verb_object
+ȽTE,1pltran,1,we,past,LE¸,past,2NCsg,2,You,OṈE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE LE¸ ȽTE,QENN_OṈE LE¸ ȽTE,verb_object
+ȽTE,1pltran,1,we,past,LE¸,past,2NCsg,2,You,OṈE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE LE¸ ȽTE,ȻENÁṈN_OṈE LE¸ ȽTE,verb_object
+ȽTE,1pltran,1,we,past,LE¸,past,2NCpl,2,You folks,OṈE HÁLE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE LE¸ ȽTE HÁLE,SEJN_OṈE LE¸ ȽTE HÁLE,verb_object
+ȽTE,1pltran,1,we,past,LE¸,past,2NCpl,2,You folks,OṈE HÁLE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE LE¸ ȽTE HÁLE,QENN_OṈE LE¸ ȽTE HÁLE,verb_object
+ȽTE,1pltran,1,we,past,LE¸,past,2NCpl,2,You folks,OṈE HÁLE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE LE¸ ȽTE HÁLE,ȻENÁṈN_OṈE LE¸ ȽTE HÁLE,verb_object
+SEN,1sgtran,1,I,past,LE¸,past,2NCsg,2,You,OṈE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE LE¸ SEN,SEJN_OṈE LE¸ SEN,verb_object
+SEN,1sgtran,1,I,past,LE¸,past,2NCsg,2,You,OṈE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE LE¸ SEN,QENN_OṈE LE¸ SEN,verb_object
+SEN,1sgtran,1,I,past,LE¸,past,2NCsg,2,You,OṈE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE LE¸ SEN,ȻENÁṈN_OṈE LE¸ SEN,verb_object
+SEN,1sgtran,1,I,past,LE¸,past,2NCpl,2,You folks,OṈE HÁLE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE LE¸ SEN HÁLE,SEJN_OṈE LE¸ SEN HÁLE,verb_object
+SEN,1sgtran,1,I,past,LE¸,past,2NCpl,2,You folks,OṈE HÁLE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE LE¸ SEN HÁLE,QENN_OṈE LE¸ SEN HÁLE,verb_object
+SEN,1sgtran,1,I,past,LE¸,past,2NCpl,2,You folks,OṈE HÁLE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE LE¸ SEN HÁLE,ȻENÁṈN_OṈE LE¸ SEN HÁLE,verb_object
+ȽTE,1pltran,1,we,past,LE¸,past,2sg,2,You,SE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE LE¸ ȽTE,W̱EĆE_SE _LE¸ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2sg,2,You,SE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE LE¸ ȽTE,ŚÁME_SE _LE¸ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2sg,2,You,SE,look at it,transitive,contr,QENET,QENET,,QENESE LE¸ ȽTE,QENE_SE _LE¸ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2sg,2,You,SE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE LE¸ ȽTE,ȽIȾE_SE _LE¸ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2sg,2,You,SE,bite it,transitive,contr,KIQET,KIQET,,KIQESE LE¸ ȽTE,KIQE_SE _LE¸ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2sg,2,You,SE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE LE¸ ȽTE,ȻENÁṈE_SE _LE¸ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2pl,2,You folks,SE HÁLE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE LE¸ ȽTE HÁLE,W̱EĆE_SE _LE¸ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2pl,2,You folks,SE HÁLE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE LE¸ ȽTE HÁLE,ŚÁME_SE _LE¸ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2pl,2,You folks,SE HÁLE,look at it,transitive,contr,QENET,QENET,,QENESE LE¸ ȽTE HÁLE,QENE_SE _LE¸ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2pl,2,You folks,SE HÁLE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE LE¸ ȽTE HÁLE,ȽIȾE_SE _LE¸ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2pl,2,You folks,SE HÁLE,bite it,transitive,contr,KIQET,KIQET,,KIQESE LE¸ ȽTE HÁLE,KIQE_SE _LE¸ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,past,LE¸,past,2pl,2,You folks,SE HÁLE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE LE¸ ȽTE HÁLE,ȻENÁṈE_SE _LE¸ _ȽTE_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2sg,2,You,SE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE LE¸ SEN,W̱EĆE_SE _LE¸ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2sg,2,You,SE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE LE¸ SEN,ŚÁME_SE _LE¸ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2sg,2,You,SE,look at it,transitive,contr,QENET,QENET,,QENESE LE¸ SEN,QENE_SE _LE¸ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2sg,2,You,SE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE LE¸ SEN,ȽIȾE_SE _LE¸ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2sg,2,You,SE,bite it,transitive,contr,KIQET,KIQET,,KIQESE LE¸ SEN,KIQE_SE _LE¸ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2sg,2,You,SE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE LE¸ SEN,ȻENÁṈE_SE _LE¸ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2pl,2,You folks,SE HÁLE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE LE¸ SEN HÁLE,W̱EĆE_SE _LE¸ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2pl,2,You folks,SE HÁLE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE LE¸ SEN HÁLE,ŚÁME_SE _LE¸ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2pl,2,You folks,SE HÁLE,look at it,transitive,contr,QENET,QENET,,QENESE LE¸ SEN HÁLE,QENE_SE _LE¸ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2pl,2,You folks,SE HÁLE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE LE¸ SEN HÁLE,ȽIȾE_SE _LE¸ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2pl,2,You folks,SE HÁLE,bite it,transitive,contr,KIQET,KIQET,,KIQESE LE¸ SEN HÁLE,KIQE_SE _LE¸ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,past,LE¸,past,2pl,2,You folks,SE HÁLE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE LE¸ SEN HÁLE,ȻENÁṈE_SE _LE¸ _SEN_ HÁLE,verb_object_tense_subject_object
+ȽTE,1plint,1,we,past,LE¸,past,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ LE¸ ȽTE,YÁ¸_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,past,LE¸,past,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET LE¸ ȽTE,ITET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,past,LE¸,past,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET LE¸ ȽTE,EMET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,past,LE¸,past,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET LE¸ ȽTE,ȻONEṈET_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,past,LE¸,past,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ LE¸ ȽTE,ĆȺ_ _LE¸ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,past,LE¸,past,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL LE¸ ȽTE,ĆÁNEL_ _LE¸ _ȽTE,verb_object_tense_subject
+SEN,1sgint,1,I,past,LE¸,past,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ LE¸ SEN,YÁ¸_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,past,LE¸,past,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET LE¸ SEN,ITET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,past,LE¸,past,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET LE¸ SEN,EMET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,past,LE¸,past,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET LE¸ SEN,ȻONEṈET_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,past,LE¸,past,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ LE¸ SEN,ĆȺ_ _LE¸ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,past,LE¸,past,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL LE¸ SEN,ĆÁNEL_ _LE¸ _SEN,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ ȽTE,SEJNOW̱__ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,present,-,prs,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ ȽTE,QENNEW̱__ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,present,-,prs,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ ȽTE,ȻENÁṈNEW̱__ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,present,-,prs,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ ȽTE,SEJNOW̱__ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,present,-,prs,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ ȽTE,QENNEW̱__ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,present,-,prs,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ ȽTE,ȻENÁṈNEW̱__ ȽTE,verb_object_tense
+SEN,1sgtran,1,I,present,-,prs,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ SEN,SEJNOW̱__ SEN,verb_object_tense
+SEN,1sgtran,1,I,present,-,prs,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ SEN,QENNEW̱__ SEN,verb_object_tense
+SEN,1sgtran,1,I,present,-,prs,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ SEN,ȻENÁṈNEW̱__ SEN,verb_object_tense
+SEN,1sgtran,1,I,present,-,prs,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱ SEN,SEJNOW̱__ SEN,verb_object_tense
+SEN,1sgtran,1,I,present,-,prs,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱ SEN,QENNEW̱__ SEN,verb_object_tense
+SEN,1sgtran,1,I,present,-,prs,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱ SEN,ȻENÁṈNEW̱__ SEN,verb_object_tense
+ȽTE,1pltran,1,we,present,-,prs,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET ȽTE,W̱EĆET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET ȽTE,ŚÁMET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET ȽTE,QENET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET ȽTE,ȽIȾET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET ȽTE,KIQET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET ȽTE,ȻENÁṈET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET ȽTE,W̱EĆET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET ȽTE,ŚÁMET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET ȽTE,QENET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET ȽTE,ȽIȾET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET ȽTE,KIQET__ _ȽTE,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET ȽTE,ȻENÁṈET__ _ȽTE,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SEN,W̱EĆET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SEN,ŚÁMET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET SEN,QENET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SEN,ȽIȾET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET SEN,KIQET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SEN,ȻENÁṈET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SEN,W̱EĆET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SEN,ŚÁMET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET SEN,QENET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SEN,ȽIȾET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET SEN,KIQET__ _SEN,verb_object_tense_subject
+SEN,1sgtran,1,I,present,-,prs,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SEN,ȻENÁṈET__ _SEN,verb_object_tense_subject
+ȽTE,1pltran,1,we,present,-,prs,2NCsg,2,You,OṈE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE ȽTE,SEJN_OṈE ȽTE,verb_object
+ȽTE,1pltran,1,we,present,-,prs,2NCsg,2,You,OṈE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE ȽTE,QENN_OṈE ȽTE,verb_object
+ȽTE,1pltran,1,we,present,-,prs,2NCsg,2,You,OṈE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE ȽTE,ȻENÁṈN_OṈE ȽTE,verb_object
+ȽTE,1pltran,1,we,present,-,prs,2NCpl,2,You folks,OṈE HÁLE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE ȽTE HÁLE,SEJN_OṈE ȽTE HÁLE,verb_object
+ȽTE,1pltran,1,we,present,-,prs,2NCpl,2,You folks,OṈE HÁLE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE ȽTE HÁLE,QENN_OṈE ȽTE HÁLE,verb_object
+ȽTE,1pltran,1,we,present,-,prs,2NCpl,2,You folks,OṈE HÁLE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE ȽTE HÁLE,ȻENÁṈN_OṈE ȽTE HÁLE,verb_object
+SEN,1sgtran,1,I,present,-,prs,2NCsg,2,You,OṈE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE SEN,SEJN_OṈE SEN,verb_object
+SEN,1sgtran,1,I,present,-,prs,2NCsg,2,You,OṈE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE SEN,QENN_OṈE SEN,verb_object
+SEN,1sgtran,1,I,present,-,prs,2NCsg,2,You,OṈE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE SEN,ȻENÁṈN_OṈE SEN,verb_object
+SEN,1sgtran,1,I,present,-,prs,2NCpl,2,You folks,OṈE HÁLE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE SEN HÁLE,SEJN_OṈE SEN HÁLE,verb_object
+SEN,1sgtran,1,I,present,-,prs,2NCpl,2,You folks,OṈE HÁLE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE SEN HÁLE,QENN_OṈE SEN HÁLE,verb_object
+SEN,1sgtran,1,I,present,-,prs,2NCpl,2,You folks,OṈE HÁLE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE SEN HÁLE,ȻENÁṈN_OṈE SEN HÁLE,verb_object
+ȽTE,1pltran,1,we,present,-,prs,2sg,2,You,SE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE ȽTE,W̱EĆE_SE_ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2sg,2,You,SE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE ȽTE,ŚÁME_SE_ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2sg,2,You,SE,look at it,transitive,contr,QENET,QENET,,QENESE ȽTE,QENE_SE_ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2sg,2,You,SE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE ȽTE,ȽIȾE_SE_ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2sg,2,You,SE,bite it,transitive,contr,KIQET,KIQET,,KIQESE ȽTE,KIQE_SE_ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2sg,2,You,SE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE ȽTE,ȻENÁṈE_SE_ _ȽTE_,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2pl,2,You folks,SE HÁLE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE ȽTE HÁLE,W̱EĆE_SE_ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2pl,2,You folks,SE HÁLE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE ȽTE HÁLE,ŚÁME_SE_ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2pl,2,You folks,SE HÁLE,look at it,transitive,contr,QENET,QENET,,QENESE ȽTE HÁLE,QENE_SE_ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2pl,2,You folks,SE HÁLE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE ȽTE HÁLE,ȽIȾE_SE_ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2pl,2,You folks,SE HÁLE,bite it,transitive,contr,KIQET,KIQET,,KIQESE ȽTE HÁLE,KIQE_SE_ _ȽTE_ HÁLE,verb_object_tense_subject_object
+ȽTE,1pltran,1,we,present,-,prs,2pl,2,You folks,SE HÁLE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE ȽTE HÁLE,ȻENÁṈE_SE_ _ȽTE_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2sg,2,You,SE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE SEN,W̱EĆE_SE_ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2sg,2,You,SE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE SEN,ŚÁME_SE_ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2sg,2,You,SE,look at it,transitive,contr,QENET,QENET,,QENESE SEN,QENE_SE_ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2sg,2,You,SE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE SEN,ȽIȾE_SE_ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2sg,2,You,SE,bite it,transitive,contr,KIQET,KIQET,,KIQESE SEN,KIQE_SE_ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2sg,2,You,SE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE SEN,ȻENÁṈE_SE_ _SEN_,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2pl,2,You folks,SE HÁLE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE SEN HÁLE,W̱EĆE_SE_ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2pl,2,You folks,SE HÁLE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE SEN HÁLE,ŚÁME_SE_ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2pl,2,You folks,SE HÁLE,look at it,transitive,contr,QENET,QENET,,QENESE SEN HÁLE,QENE_SE_ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2pl,2,You folks,SE HÁLE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE SEN HÁLE,ȽIȾE_SE_ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2pl,2,You folks,SE HÁLE,bite it,transitive,contr,KIQET,KIQET,,KIQESE SEN HÁLE,KIQE_SE_ _SEN_ HÁLE,verb_object_tense_subject_object
+SEN,1sgtran,1,I,present,-,prs,2pl,2,You folks,SE HÁLE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE SEN HÁLE,ȻENÁṈE_SE_ _SEN_ HÁLE,verb_object_tense_subject_object
+ȽTE,1plint,1,we,present,-,prs,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ ȽTE,YÁ¸__ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,present,-,prs,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET ȽTE,ITET__ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,present,-,prs,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET ȽTE,EMET__ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,present,-,prs,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET ȽTE,ȻONEṈET__ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,present,-,prs,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ ȽTE,ĆȺ__ _ȽTE,verb_object_tense_subject
+ȽTE,1plint,1,we,present,-,prs,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL ȽTE,ĆÁNEL__ _ȽTE,verb_object_tense_subject
+SEN,1sgint,1,I,present,-,prs,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SEN,YÁ¸__ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,present,-,prs,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SEN,ITET__ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,present,-,prs,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SEN,EMET__ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,present,-,prs,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SEN,ȻONEṈET__ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,present,-,prs,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SEN,ĆȺ__ _SEN,verb_object_tense_subject
+SEN,1sgint,1,I,present,-,prs,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SEN,ĆÁNEL__ _SEN,verb_object_tense_subject
+ȽTE,1pltran,1,we,future,SE¸,fut,2NCsg,2,You,OṈE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE ȽTE SE¸,SEJN_OṈE ȽTE SE¸,verb_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2NCsg,2,You,OṈE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE ȽTE SE¸,QENN_OṈE ȽTE SE¸,verb_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2NCsg,2,You,OṈE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE ȽTE SE¸,ȻENÁṈN_OṈE ȽTE SE¸,verb_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2NCpl,2,You folks,OṈE HÁLE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE ȽTE SE¸ HÁLE,SEJN_OṈE ȽTE SE¸ HÁLE,verb_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2NCpl,2,You folks,OṈE HÁLE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE ȽTE SE¸ HÁLE,QENN_OṈE ȽTE SE¸ HÁLE,verb_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2NCpl,2,You folks,OṈE HÁLE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE ȽTE SE¸ HÁLE,ȻENÁṈN_OṈE ȽTE SE¸ HÁLE,verb_object
+SEN,1sgtran,1,I,future,SE¸,fut,2NCsg,2,You,OṈE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE SEN SE¸,SEJN_OṈE SEN SE¸,verb_object
+SEN,1sgtran,1,I,future,SE¸,fut,2NCsg,2,You,OṈE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE SEN SE¸,QENN_OṈE SEN SE¸,verb_object
+SEN,1sgtran,1,I,future,SE¸,fut,2NCsg,2,You,OṈE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE SEN SE¸,ȻENÁṈN_OṈE SEN SE¸,verb_object
+SEN,1sgtran,1,I,future,SE¸,fut,2NCpl,2,You folks,OṈE HÁLE,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOṈE SEN SE¸ HÁLE,SEJN_OṈE SEN SE¸ HÁLE,verb_object
+SEN,1sgtran,1,I,future,SE¸,fut,2NCpl,2,You folks,OṈE HÁLE,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNOṈE SEN SE¸ HÁLE,QENN_OṈE SEN SE¸ HÁLE,verb_object
+SEN,1sgtran,1,I,future,SE¸,fut,2NCpl,2,You folks,OṈE HÁLE,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNOṈE SEN SE¸ HÁLE,ȻENÁṈN_OṈE SEN SE¸ HÁLE,verb_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2sg,2,You,SE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE ȽTE SE¸,W̱EĆE_SE _ȽTE _SE¸_,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2sg,2,You,SE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE ȽTE SE¸,ŚÁME_SE _ȽTE _SE¸_,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2sg,2,You,SE,look at it,transitive,contr,QENET,QENET,,QENESE ȽTE SE¸,QENE_SE _ȽTE _SE¸_,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2sg,2,You,SE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE ȽTE SE¸,ȽIȾE_SE _ȽTE _SE¸_,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2sg,2,You,SE,bite it,transitive,contr,KIQET,KIQET,,KIQESE ȽTE SE¸,KIQE_SE _ȽTE _SE¸_,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2sg,2,You,SE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE ȽTE SE¸,ȻENÁṈE_SE _ȽTE _SE¸_,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2pl,2,You folks,SE HÁLE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE ȽTE SE¸ HÁLE,W̱EĆE_SE _ȽTE _SE¸_ HÁLE,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2pl,2,You folks,SE HÁLE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE ȽTE SE¸ HÁLE,ŚÁME_SE _ȽTE _SE¸_ HÁLE,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2pl,2,You folks,SE HÁLE,look at it,transitive,contr,QENET,QENET,,QENESE ȽTE SE¸ HÁLE,QENE_SE _ȽTE _SE¸_ HÁLE,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2pl,2,You folks,SE HÁLE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE ȽTE SE¸ HÁLE,ȽIȾE_SE _ȽTE _SE¸_ HÁLE,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2pl,2,You folks,SE HÁLE,bite it,transitive,contr,KIQET,KIQET,,KIQESE ȽTE SE¸ HÁLE,KIQE_SE _ȽTE _SE¸_ HÁLE,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,2pl,2,You folks,SE HÁLE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE ȽTE SE¸ HÁLE,ȻENÁṈE_SE _ȽTE _SE¸_ HÁLE,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2sg,2,You,SE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE SEN SE¸,W̱EĆE_SE _SEN _SE¸_,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2sg,2,You,SE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE SEN SE¸,ŚÁME_SE _SEN _SE¸_,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2sg,2,You,SE,look at it,transitive,contr,QENET,QENET,,QENESE SEN SE¸,QENE_SE _SEN _SE¸_,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2sg,2,You,SE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE SEN SE¸,ȽIȾE_SE _SEN _SE¸_,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2sg,2,You,SE,bite it,transitive,contr,KIQET,KIQET,,KIQESE SEN SE¸,KIQE_SE _SEN _SE¸_,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2sg,2,You,SE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE SEN SE¸,ȻENÁṈE_SE _SEN _SE¸_,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2pl,2,You folks,SE HÁLE,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆESE SEN SE¸ HÁLE,W̱EĆE_SE _SEN _SE¸_ HÁLE,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2pl,2,You folks,SE HÁLE,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMESE SEN SE¸ HÁLE,ŚÁME_SE _SEN _SE¸_ HÁLE,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2pl,2,You folks,SE HÁLE,look at it,transitive,contr,QENET,QENET,,QENESE SEN SE¸ HÁLE,QENE_SE _SEN _SE¸_ HÁLE,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2pl,2,You folks,SE HÁLE,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾESE SEN SE¸ HÁLE,ȽIȾE_SE _SEN _SE¸_ HÁLE,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2pl,2,You folks,SE HÁLE,bite it,transitive,contr,KIQET,KIQET,,KIQESE SEN SE¸ HÁLE,KIQE_SE _SEN _SE¸_ HÁLE,verb_object_subject_tense_object
+SEN,1sgtran,1,I,future,SE¸,fut,2pl,2,You folks,SE HÁLE,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈESE SEN SE¸ HÁLE,ȻENÁṈE_SE _SEN _SE¸_ HÁLE,verb_object_subject_tense_object
+ȽTE,1pltran,1,we,future,SE¸,fut,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ ȽTE,SEJNOW̱__SE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ ȽTE,QENNEW̱__SE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ ȽTE,ȻENÁṈNEW̱__SE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ ȽTE,SEJNOW̱__SE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ ȽTE,QENNEW̱__SE¸ ȽTE,verb_object_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ ȽTE,ȻENÁṈNEW̱__SE¸ ȽTE,verb_object_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3plNC,3,Them,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ SEN,SEJNOW̱__SE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3plNC,3,Them,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ SEN,QENNEW̱__SE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3plNC,3,Them,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ SEN,ȻENÁṈNEW̱__SE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to hit it,transitive,noncontr,SEJNOW̱,SEJNOW̱,,SEJNOW̱SE¸ SEN,SEJNOW̱__SE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to see it,transitive,noncontr,QENNEW̱,QENNEW̱,,QENNEW̱SE¸ SEN,QENNEW̱__SE¸ SEN,verb_object_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sgNC,3,Her/Him/It,,manage to help it,transitive,noncontr,ȻENÁṈNEW̱,ȻENÁṈNEW̱,,ȻENÁṈNEW̱SE¸ SEN,ȻENÁṈNEW̱__SE¸ SEN,verb_object_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET ȽTE SE¸,W̱EĆET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET ȽTE SE¸,ŚÁMET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET ȽTE SE¸,QENET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET ȽTE SE¸,ȽIȾET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET ȽTE SE¸,KIQET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET ȽTE SE¸,ȻENÁṈET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET ȽTE SE¸,W̱EĆET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET ȽTE SE¸,ŚÁMET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET ȽTE SE¸,QENET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET ȽTE SE¸,ȽIȾET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET ȽTE SE¸,KIQET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1pltran,1,we,future,SE¸,fut,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET ȽTE SE¸,ȻENÁṈET_ _ȽTE _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3pl,3,them,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SEN SE¸,W̱EĆET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3pl,3,them,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SEN SE¸,ŚÁMET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3pl,3,them,,look at it,transitive,contr,QENET,QENET,,QENET SEN SE¸,QENET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3pl,3,them,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SEN SE¸,ȽIȾET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3pl,3,them,,bite it,transitive,contr,KIQET,KIQET,,KIQET SEN SE¸,KIQET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3pl,3,them,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SEN SE¸,ȻENÁṈET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sg,3,Her/Him/It,,wake it,transitive,contr,W̱EĆET,W̱EĆET,,W̱EĆET SEN SE¸,W̱EĆET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sg,3,Her/Him/It,,dry it,transitive,contr,ŚÁMET,ŚÁMET,,ŚÁMET SEN SE¸,ŚÁMET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sg,3,Her/Him/It,,look at it,transitive,contr,QENET,QENET,,QENET SEN SE¸,QENET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sg,3,Her/Him/It,,cut it,transitive,contr,ȽIȾET,ȽIȾET,,ȽIȾET SEN SE¸,ȽIȾET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sg,3,Her/Him/It,,bite it,transitive,contr,KIQET,KIQET,,KIQET SEN SE¸,KIQET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgtran,1,I,future,SE¸,fut,3sg,3,Her/Him/It,,help it,transitive,contr,ȻENÁṈET,ȻENÁṈET,,ȻENÁṈET SEN SE¸,ȻENÁṈET_ _SEN _SE¸,verb_object_subject_tense
+ȽTE,1plint,1,we,future,SE¸,fut,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ ȽTE SE¸,YÁ¸_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1plint,1,we,future,SE¸,fut,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET ȽTE SE¸,ITET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1plint,1,we,future,SE¸,fut,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET ȽTE SE¸,EMET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1plint,1,we,future,SE¸,fut,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET ȽTE SE¸,ȻONEṈET_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1plint,1,we,future,SE¸,fut,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ ȽTE SE¸,ĆȺ_ _ȽTE _SE¸,verb_object_subject_tense
+ȽTE,1plint,1,we,future,SE¸,fut,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL ȽTE SE¸,ĆÁNEL_ _ȽTE _SE¸,verb_object_subject_tense
+SEN,1sgint,1,I,future,SE¸,fut,none,none,no object,,go,intransitive,,YÁ¸,YÁ¸,,YÁ¸ SEN SE¸,YÁ¸_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgint,1,I,future,SE¸,fut,none,none,no object,,sleep,intransitive,,ITET,ITET,,ITET SEN SE¸,ITET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgint,1,I,future,SE¸,fut,none,none,no object,,sit up or down,intransitive,,EMET,EMET,,EMET SEN SE¸,EMET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgint,1,I,future,SE¸,fut,none,none,no object,,run,intransitive,,ȻONEṈET,ȻONEṈET,,ȻONEṈET SEN SE¸,ȻONEṈET_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgint,1,I,future,SE¸,fut,none,none,no object,,work,intransitive,,ĆȺ,ĆȺ,,ĆȺ SEN SE¸,ĆȺ_ _SEN _SE¸,verb_object_subject_tense
+SEN,1sgint,1,I,future,SE¸,fut,none,none,no object,,move,intransitive,,ĆÁNEL,ĆÁNEL,,ĆÁNEL SEN SE¸,ĆÁNEL_ _SEN _SE¸,verb_object_subject_tense
