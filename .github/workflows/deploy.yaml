@@ -28,7 +28,6 @@ jobs:
           pip install --upgrade pip==24.0
           git clone https://github.com/nrc-cnrc/VerbConjugatorApp.git
           mv environment.prod.ts VerbConjugatorApp/VerbApp/src/environments/
-          cat VerbConjugatorApp/VerbApp/src/environments/environment.prod.ts
           cd VerbConjugatorApp/DataBuilder/
           pip install -r requirements.txt
           python src/main.py -f ../../Data/inputfile.csv -o ../../Data/order.csv -tt -c --auto-place
