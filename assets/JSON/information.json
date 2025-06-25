@@ -1,0 +1,252 @@
+[
+    {
+        "name": "verb",
+        "children": [
+            {
+                "translation": "move",
+                "type": "intransitive",
+                "id": "ĆÁNEL",
+                "base": "ĆÁNEL"
+            },
+            {
+                "translation": "work",
+                "type": "intransitive",
+                "id": "ĆȺ",
+                "base": "ĆȺ"
+            },
+            {
+                "translation": "sit up or down",
+                "type": "intransitive",
+                "id": "EMET",
+                "base": "EMET"
+            },
+            {
+                "translation": "sleep",
+                "type": "intransitive",
+                "id": "ITET",
+                "base": "ITET"
+            },
+            {
+                "translation": "bite it",
+                "type": "transitive",
+                "id": "KIQET",
+                "base": "KIQET"
+            },
+            {
+                "translation": "look at it",
+                "type": "transitive",
+                "id": "QENET",
+                "base": "QENET"
+            },
+            {
+                "translation": "manage to see it",
+                "type": "transitive",
+                "id": "QENNEW̱",
+                "base": "QENNEW̱"
+            },
+            {
+                "translation": "manage to hit it",
+                "type": "transitive",
+                "id": "SEJNOW̱",
+                "base": "SEJNOW̱"
+            },
+            {
+                "translation": "dry it",
+                "type": "transitive",
+                "id": "ŚÁMET",
+                "base": "ŚÁMET"
+            },
+            {
+                "translation": "wake it",
+                "type": "transitive",
+                "id": "W̱EĆET",
+                "base": "W̱EĆET"
+            },
+            {
+                "translation": "go",
+                "type": "intransitive",
+                "id": "YÁ¸",
+                "base": "YÁ¸"
+            },
+            {
+                "translation": "help it",
+                "type": "transitive",
+                "id": "ȻENÁṈET",
+                "base": "ȻENÁṈET"
+            },
+            {
+                "translation": "manage to help it",
+                "type": "transitive",
+                "id": "ȻENÁṈNEW̱",
+                "base": "ȻENÁṈNEW̱"
+            },
+            {
+                "translation": "run",
+                "type": "intransitive",
+                "id": "ȻONEṈET",
+                "base": "ȻONEṈET"
+            },
+            {
+                "translation": "cut it",
+                "type": "transitive",
+                "id": "ȽIȾET",
+                "base": "ȽIȾET"
+            }
+        ]
+    },
+    {
+        "name": "subject",
+        "children": [
+            {
+                "base": "ȽTE",
+                "id": "1plint",
+                "translation": "we"
+            },
+            {
+                "base": "ȽTE",
+                "id": "1pltran",
+                "translation": "we"
+            },
+            {
+                "base": "SEN",
+                "id": "1sgint",
+                "translation": "I"
+            },
+            {
+                "base": "SEN",
+                "id": "1sgtran",
+                "translation": "I"
+            },
+            {
+                "base": "SW̱ HÁLE",
+                "id": "2plint",
+                "translation": "you folks"
+            },
+            {
+                "base": "SW̱ HÁLE",
+                "id": "2pltran",
+                "translation": "you folks"
+            },
+            {
+                "base": "SW̱",
+                "id": "2sgint",
+                "translation": "you"
+            },
+            {
+                "base": "SW̱",
+                "id": "2sgtran",
+                "translation": "You"
+            },
+            {
+                "base": "-",
+                "id": "3plint",
+                "translation": "they"
+            },
+            {
+                "base": "-ES",
+                "id": "3pltran",
+                "translation": "they"
+            },
+            {
+                "base": "-",
+                "id": "3sgint",
+                "translation": "s/he/it"
+            },
+            {
+                "base": "-ES",
+                "id": "3sgtran",
+                "translation": "s/he/it"
+            }
+        ]
+    },
+    {
+        "name": "object",
+        "children": [
+            {
+                "id": "1pl",
+                "translation": "us",
+                "base": "OL¸W̱"
+            },
+            {
+                "id": "1plNC",
+                "translation": "Us",
+                "base": "OL¸W̱"
+            },
+            {
+                "id": "1sg",
+                "translation": "Me",
+                "base": "S"
+            },
+            {
+                "id": "1sgNC",
+                "translation": "Me",
+                "base": "OṈES"
+            },
+            {
+                "id": "2NCpl",
+                "translation": "You folks",
+                "base": "OṈE HÁLE"
+            },
+            {
+                "id": "2NCsg",
+                "translation": "You",
+                "base": "OṈE"
+            },
+            {
+                "id": "2pl",
+                "translation": "You folks",
+                "base": "SE HÁLE"
+            },
+            {
+                "id": "2sg",
+                "translation": "You",
+                "base": "SE"
+            },
+            {
+                "id": "3pl",
+                "translation": "them",
+                "base": ""
+            },
+            {
+                "id": "3plNC",
+                "translation": "Them",
+                "base": ""
+            },
+            {
+                "id": "3sg",
+                "translation": "Her/Him/It",
+                "base": ""
+            },
+            {
+                "id": "3sgNC",
+                "translation": "Her/Him/It",
+                "base": ""
+            },
+            {
+                "id": "none",
+                "translation": "no object",
+                "base": ""
+            }
+        ]
+    },
+    {
+        "name": "tense",
+        "children": [
+            {
+                "translation": "future",
+                "base": "SE¸",
+                "id": "fut"
+            },
+            {
+                "translation": "past",
+                "base": "LE¸",
+                "id": "past"
+            },
+            {
+                "translation": "present",
+                "base": "-",
+                "id": "prs"
+            }
+        ]
+    }
+]
