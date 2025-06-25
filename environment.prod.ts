@@ -12,7 +12,7 @@ export const environment = {
     requiresAuth: true,
     diffusionSteps: 3, // 👈  OPTIONAL: number of diffusion steps
     middlewareEndpoint:
-      "https://wsanec-tts-middleware-2372f187c744.herokuapp.com/tts",
+      "https://tts.sencoten.org/tts",
     domain: "wsanec-sgile.ca.auth0.com",
     clientId: "XTyHkE8Jnea0YCcQpdxPylluY49H6XKJ",
     audience: "https://wsanec.everyvoice.middleware.ca",
