@@ -35,7 +35,7 @@ jobs:
           npm install -f
           npm install -g ionic
           ionic build --prod -- --base-href ./ --output-path=../../deploy/
-          echo "swxetkinen.everyvoice.ca" > ../../deploy/CNAME
+          echo "swxetkinen.sencoten.org" > ../../deploy/CNAME
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
